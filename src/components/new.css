@@ -1,0 +1,662 @@
+h1{
+    text-align: center;
+    color: whitesmoke;
+   
+}
+
+.main{
+   
+ 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+    position: relative;
+
+    
+}
+.welcome{
+     margin-top: 240px!important; 
+}
+.wel{
+    font-size: 55px;
+    font-weight: 500;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Lobster', cursive;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+    word-spacing: 7px;
+}
+.book{
+    text-align: center;
+    color: antiquewhite;
+    background-color: black;
+    font-weight: 400;
+    font-size: 24px;
+    padding: 10px 0 10px 0;
+    margin-top: 10px!important;
+    color: rgba(255, 255, 0, 0.629);
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Lobster', cursive;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+    word-spacing: 2px;
+    letter-spacing: 5px;
+}
+.sec{
+    text-align: center;
+    margin-top: 50px;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Lobster', cursive;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+    font-size: 40px;
+    word-spacing: 6px;
+    letter-spacing: 3px;
+}
+.secss{
+    text-align: center;
+    margin-top: 50px;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Lobster', cursive;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+    font-size: 40px;
+    word-spacing: 6px;
+    letter-spacing: 3px;
+    border-bottom: 3px solid rgb(145, 5, 5);
+    /* margin-top: 6px; */
+    position: relative;
+    top: 7px;
+}
+.secs{
+    text-align: center;
+    margin-top: 50px;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Lobster', cursive;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+    font-size: 40px;
+    word-spacing: 6px;
+    letter-spacing: 3px;
+    border-bottom: 3px solid rgb(145, 5, 5);
+}
+.p1{
+    text-align: center;
+}
+.feat{
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Lobster', cursive;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+    font-size: 40px;
+    word-spacing: 6px;
+    letter-spacing: 3px;
+    margin-bottom: 25px;
+}
+.csec{
+    margin-top: 60px;
+}
+.bars{
+    background-color: black;
+    border: 1px solid rgb(106, 106, 106);
+    height: 120px;
+    margin-bottom: 30px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 10px;
+    color: aliceblue;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Lobster', cursive;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+    font-weight: 400;
+    letter-spacing: 3px;
+}
+.bars:hover{
+    background-color: rgb(225, 191, 191);
+    color: black;
+    border: none;
+    cursor: pointer;
+}
+.barrow{
+    margin-top: 20px!important;
+}
+.neec{
+    margin-top: 10px;
+    
+}
+
+.rthird{
+    margin-bottom: 40px;
+}
+.color{
+    font-size: 24px;
+    color: 	#d83c08;
+}
+.img{
+    width: 100%;
+}
+.raterow{
+    margin-top: 50px!important;
+    margin-bottom: 30px;
+}
+.booking{
+    height: 300px;
+    background-color: 	#00bfff;
+}
+.booking2{
+    height: 300px;
+    background-color: 	#f08080;
+}
+.booking3{
+    height: 300px;
+    background-color: green;
+}
+.booking4{
+    height: 300px;
+    background-color: 	#ff4500;
+}
+.single{
+    text-align: center;
+    padding: 10px;
+    font-size: 25px;
+    letter-spacing: 2px;
+    /* font-family: 'Oswald', sans-serif; */
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+    font-weight: 400;
+}
+.cdiv{
+    background-color: 	#065c78;
+    color: bisque;
+    font-size: 23px;
+}
+.cdiv2{
+    background-color: 	#f35a5a;
+    color: bisque;
+    font-size: 23px;
+}
+.cdiv3{
+    background-color: 	rgb(3, 81, 3);
+    color: bisque;
+    font-size: 23px;
+}
+.cdiv4{
+    background-color: #a33006;
+    color: bisque;
+    font-size: 23px;
+}
+.sixe{
+    font-size: 80px;
+    margin-top: 59px;
+    font-family: 'Lobster', cursive;
+}
+.sixes{
+    text-align: right;
+    font-size: 30px;
+    position: relative;
+    right: 60px;
+    bottom: 30px;
+    /* margin-top: 59px; */
+    font-family: 'Lobster', cursive;
+    color: bisque;
+}
+.chan{
+    color: 	#00bfff;
+}
+.chan2{
+    color: 	#f08080;
+}
+.chan3{
+    color: 	green;
+}
+.chan4{
+    color: 	#ff4500;
+}
+.wit{
+    background-color: whitesmoke;
+    border: 1px solid gray;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.btns{
+    background-color: #00bfff!important;
+    color: white!important;
+    border: none;
+    border-radius: 50px!important;
+    padding: 5px 20px 5px 20px;
+    margin-top: 10px;
+    font-size: 17px;
+}
+.btn2{
+    background-color: #f08080!important;
+    color: white!important;
+    border: none;
+    border-radius: 50px!important;
+    padding: 5px 20px 5px 20px;
+    margin-top: 10px;
+    font-size: 17px;
+}
+.btn3{
+    background-color: green!important;
+    color: white!important;
+    border: none;
+    border-radius: 50px!important;
+    padding: 5px 20px 5px 20px;
+    margin-top: 10px;
+    font-size: 17px;
+}
+.btn4{
+    background-color: #ff4500!important;
+    color: white!important;
+    border: none;
+    border-radius: 50px!important;
+    padding: 5px 20px 5px 20px;
+    margin-top: 10px;
+    font-size: 17px;
+}
+.one{
+    height: 300px;
+    /* border: 2px solid red; */
+    margin-top: 100px!important;
+    color: azure;
+}
+/* .my-Link{
+    color: white;
+    text-decoration: none;
+    
+}
+
+
+.my-Link:hover{
+    color: #d44f15;
+   border-bottom: 4px solid #d44f15;
+   transition: 0.3s
+} */
+/* .my-Link.active{
+    color: #d44f15;
+    border-bottom: 4px solid #d44f15;
+} */
+.con{
+    position: relative;
+    right: 30px;
+}
+.mian{
+    margin-top: 50px!important;
+    background-color: rgba(0, 0, 0, 0.865);
+    height: 800px;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+    .mian{
+        height: 2000px;
+    }
+  }
+li{
+    list-style: none;
+    margin-bottom: 8px;
+    font-size: 18px;
+}
+.quixk{
+    margin-left: 30px;
+    font-size: 27px;
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+    letter-spacing: 3px;
+}
+.conect{
+    margin-right: 20px;
+    font-size: 27px;
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+    letter-spacing: 3px;
+}
+.hom{
+    margin-top: 30px;
+}
+.fb{
+    color: #4169e1;
+    padding-right: 25px!important;
+}
+.twit{
+    color: #00bfff;
+    padding-right: 25px!important;
+}
+.wat{
+    color: 	#00ff00;
+    padding-right: 25px!important;
+}
+.mal{
+    color: 	#3cb371;
+    padding-right: 25px!important;
+}
+.gmal{
+    color: #ff4500;
+    padding-right: 25px!important;
+}
+.hand{
+    margin-top: 15px;
+}
+.insimage{
+    width: 45%;
+    padding-right: 10px;
+    padding-top: 5px;
+}
+
+.mains{
+    height: 285px;
+    border: 2px solid gray;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+    .mains{
+        height: 320px;
+    }
+  }
+  @media (min-width: 0px) and (max-width: 768px) {
+    .enable{
+        display: none;
+    }
+  }
+.news{
+    text-align: center;
+    color: aliceblue;
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+    letter-spacing: 3px;
+    margin-top: 35px;
+}
+.p5{
+    text-align: center;
+    color: aliceblue;
+    margin-top: 20px;
+    font-size: 20px;
+}
+.newbtn{
+    padding: 7px 25px 7px 25px!important;
+    background-color: #05c705!important;
+    color: antiquewhite!important;
+    font-size: 20px!important;
+    font-weight: 400!important;
+    border: none!important;
+    margin-left: 10px!important;
+    /* margin-top: 20px!important; */
+    /* text-align: center!important; */
+}
+.newbtn:hover{
+    background-color: green!important;
+}
+.center{
+    display: flex;
+    justify-content: center;
+}
+.section2{
+    margin-top: 80px!important;
+}
+
+.aboutus{
+    height: 490px;
+    background-color: #391f14;
+    color: whitesmoke;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.newh2{
+    font-size: 70px;
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+    letter-spacing: 3px;
+    margin-top: 50px;
+}
+.newh3{
+    font-size: 70px;
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+    letter-spacing: 3px;
+    margin-top: 50px;
+    text-align: center;
+    margin-top: 80px;
+    
+}
+.discover{
+    font-size: 23px;
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+    letter-spacing: 3px;
+}
+.Leather{
+    font-size: 23px;
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+    letter-spacing: 3px;
+    margin-top: 20px;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+    .discover{
+        text-align: center;
+    }
+  }
+.texxt{
+    /* background-color: rgba(8, 50, 36, 0.474); */
+    height: 429px;
+   margin-top: 30px;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+    .texxt{
+        height: 550px;
+        text-align: center;
+    }
+    .set-img{
+        height: 300px;
+    }
+  }
+.cthird{
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.learn-btn{
+padding: 12px 25px 12px 25px;
+background-color: #a85432;
+color: antiquewhite;
+font-size: 20px;
+font-weight: 400;
+border: none;
+/* margin-left: 10px; */
+margin-top: 20px;
+}
+.learn-btn:hover{
+    background-color: #6e331d;
+    transition: 0.3s ease-out;
+    /* font-weight: 600; */
+}
+.bor{
+    border: 6px solid white;
+}
+.spen{
+    color:#d44f15;
+}
+.room-main{
+    margin-top: 80px;
+}
+.newsec{
+    font-size: 25px;
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+    letter-spacing: 3px;
+    margin-top: 30px;
+}
+.newtest{
+    font-size: 17px;
+}
+.spen-one{
+    color: #d44f15;
+    font-size: 20px;
+}
+.sec-row{
+    margin-top: 50px!important;
+}
+.ullam{
+    color: #a85432;
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+    letter-spacing: 3px;
+}
+.leather-new{
+    font-size: 20px;
+    font-weight: 300;
+    font-family: "Josefin Sans",sans-serif;
+    color: #5e5555;
+    margin-top: 25px;
+}
+.input-text{
+    width: 500px;
+    height: 50px;
+    margin-bottom: 18px;
+    border: none;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+    .input-text{
+       width: 300px;
+    }
+}
+.bok-a{
+    color: #a85432;
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+    letter-spacing: 3px;
+    font-size: 30px;
+}
+.myedit{
+    width: 500px!important;
+    height: 50px!important;
+    text-align: center!important;
+    display: flex!important;
+    align-items: center!important;
+    justify-content: center!important;
+    margin-bottom: 18px!important;
+    background-color: whitesmoke!important;
+    color: rgb(65, 62, 62)!important;
+    border: none!important;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+    .myedit{
+       width: 350px!important;
+    }
+}
+.check-btn{
+    width: 500px;
+    height: 64px;
+    font-size: 20px;
+    background-color: #a85432;
+    border: none;
+    color: white;
+}
+.check-btn:hover{
+    background-color: #dc693c;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+    .check-btn{
+        width: 350px;
+    }
+  }
+.map{
+    margin-top: 30px;
+}
+.final{
+    /* border: 2px solid red; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   
+}
+@media (min-width: 0px) and (max-width: 768px) {
+    .final{
+        margin-top: 50px!important;
+        align-items: flex-start;
+        margin-bottom: 0px!important;
+    }
+  }
+.map
+.get-in{
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+.last-one{
+    margin-top: 30px;
+    color: rgb(111, 102, 102);
+}
+.my-inputs{
+    margin-top: 20px!important;
+    color: rgb(111, 102, 102);
+}
+.rows{
+    height: 100px!important;
+}
+.subject{
+    font-size: 16px!important;
+    height: 35px!important;
+    margin-top: 20px!important;
+}
+.submit-btn{
+    margin-top: 20px;
+    font-size: 18px;
+    padding: 17px 35px 17px 35px;
+    color: #dc693c;
+    border: 2px solid #dc693c;
+    background-color: white;
+}
+.submit-btn:hover{
+    background-color: #ec7d51;
+    color: white;
+}
+.btn-wood{
+    font-size: 17px;
+    color: rgb(69, 65, 65);
+    margin-left: 15px;
+}
+.home-icon{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 25px;
+}
+.change-color{
+    font-size: 15px;
+    color: rgb(77, 72, 72);
+}
+.mobile{
+    margin-right: 24px;
+}
+.msg{
+    margin-left: 20px;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+    .msg{
+        margin-left: 5px;
+    }
+  }
+.top{
+    display: flex;
+    justify-content: flex-end;
+  }
+.top_btn{
+   margin-right: 45px;
+   font-size: 35px;
+   color: #6e331d;
+   position: fixed;
+   /* top: 0; */
+    bottom: 50px;
+    left: 40%;
+    z-index: 1;
+    width: 100%;
+  }
+.top_btn:hover{
+    color: #d44f15;
+    cursor: pointer;
+  }
+  @media (min-width: 0px) and (max-width: 768px) {
+    .top{
+        font-size: 25px;
+    }
+  }

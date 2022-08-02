@@ -1,0 +1,251 @@
+.nav-bar{
+    width: 100%;
+    height: 100px;
+    background-color: #391f14;
+    display: flex;
+    justify-content: space-between;
+    box-shadow: 20px black;
+    position: fixed!important;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    width: 100%;
+}
+.navbar-bg{
+    width: 100%;
+    height: 100px;
+    background-color: #4d2819;
+    display: flex;
+    justify-content: space-between;
+    box-shadow: 20px black;
+    position: fixed!important;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    width: 100%;
+}
+
+.linkss{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+   
+}
+.mobile-menu{
+    background-color: antiquewhite;
+    width: 100%;
+    height: 500px;
+    margin-top: 80px;
+    /* display: flex;
+    justify-content: center;
+   flex-direction: column; */
+}
+.my-li{
+    margin-right: 50px;
+    font-size: 25px;
+    margin-top: 20px;
+    
+    
+}
+.home::before{
+    content: "";
+    background-color: #ce5a28;
+    width: 0px;
+    height: 3px;
+    position: absolute;
+    bottom: 30px;
+}
+.home:hover::before{
+    width: 50px;
+    transition: 0.3s ease-out;
+}
+.about::before{
+    content: "";
+    background-color: #ce5a28;
+    width: 0px;
+    height: 3px;
+    position: absolute;
+    bottom: 30px;
+}
+.about:hover::before{
+    width: 53px;
+    transition: 0.3s ease-out;
+}
+.rooms::before
+{
+    content: "";
+    background-color: #ce5a28;
+    width: 0px;
+    height: 3px;
+    position: absolute;
+    bottom: 30px;
+}
+.rooms:hover::before{
+    width: 62px;
+    transition: 0.3s ease-out;
+}
+.bookings::before{
+    content: "";
+    background-color: #ce5a28;
+    width: 0px;
+    height: 3px;
+    position: absolute;
+    bottom: 30px;
+}
+.bookings:hover::before{
+    width: 70px;
+    transition: 0.2s ease-out;
+}
+
+.my-Link{
+    text-decoration: none;
+    color: whitesmoke;
+    font-family: 'Dancing Script', cursive;
+font-family: 'Lobster', cursive;
+font-family: 'Oswald', sans-serif;
+font-family: 'ZCOOL QingKe HuangYou', cursive;
+    /* font-weight: 500!important; */
+} 
+.my-Link:hover{
+    color: #ce5a28;
+}
+a.active_class{
+    color: #ce5a28;
+}
+
+.my-buton{
+    border: none;
+    background-color: #a85432;
+    font-weight: 600;
+    color: aliceblue;
+    padding: 15px 25px 15px 25px;
+    margin-right: 30px;
+    margin-top: 16px;
+}
+.my-buton:hover{
+    background-color: #6e331d;
+    transition: 0.3s ease-out;
+    /* font-weight: 600; */
+}
+.my-butons{
+    padding: 12px 25px 12px 25px;
+background-color: #a85432;
+color: antiquewhite;
+font-size: 17px;
+font-weight: 600;
+border: none;
+margin-left: 10px;
+margin-top: 15px;
+}
+.my-butons:hover{
+    background-color: #6e331d;
+    transition: 0.3s ease-out;
+    /* font-weight: 600; */
+}
+
+/* .mob-buton{
+    border: none;
+    background-color: #a85432;
+    font-weight: 600;
+    color: aliceblue;
+    padding: 15px 25px 15px 25px;
+    margin-right: 30px;
+    margin-top: 16px;
+} */
+
+.logo{
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+    margin-left: 40px;
+}
+.logo-font{
+    font-size: 46px;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Lobster', cursive;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+    
+}
+.x{
+    font-family: 'Dancing Script', cursive !important;
+   font-size: 55px;
+   padding-right: 8px;
+   /* font-weight: bold; */
+}
+
+
+
+/* .mob-Link{
+    text-decoration: none;
+    color: black;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Lobster', cursive;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+    font-weight: 500!important;
+   
+} 
+.mob-li{
+    font-size: 25px;
+    margin-top: 38px;
+} */
+.my-ul{
+    display: flex;
+    flex-direction: row;
+   align-items: center;
+}
+
+@media screen and (max-width: 859px) {
+  }
+.hamburger-menu{
+    display: none;
+}
+
+@media screen and (max-width: 859px) {
+    .my-ul{
+        display: none;
+    }
+    .hamburger-menu{
+        display: block;
+       margin-right: 30px;
+    }
+     .collapse-icon{
+    color: aliceblue;
+   }
+   .cross-icon{
+    /* margin-bottom: 20px; */
+    color: aliceblue;
+    font-weight: bolder!important;
+   }
+   .mob-ul{
+    position: absolute;
+    display: block;
+    list-style: none;
+    background-color: #a85432;
+    left: 0;
+    top: 95px;
+    transition: all 0.5s ease-out;
+    width: 100%;
+   }
+.my-Link{
+    color: aliceblue;
+    padding: 32px;
+    width: 100%;
+    transition: all 0.5s ease;
+   }
+
+   .my-buton{
+    border: none;
+    background-color: #391f14;
+    font-weight: 600;
+    color: aliceblue;
+    padding: 15px 25px 15px 25px;
+    /* margin-right: 30px; */
+    margin-top: 16px;
+    margin-bottom: 20px;
+}
+
+}
+
+
